@@ -15,6 +15,8 @@ Practicing CSS
 	  <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/contact.html">Contact</a> </p>
   </body>
 </html>  
+	
+	
 
 <!DOCTYPE html>
 <html>
@@ -31,6 +33,10 @@ Practicing CSS
       <br> <p> <a href="file:///C:/Users/11818574/Documents/INCOMPU/HTML%20Activity/about.html">About</a> </p>
   </body>
 </html>  
+
+
+
+
 
 <!DOCTYPE html>
 <html>
